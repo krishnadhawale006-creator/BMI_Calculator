@@ -1,0 +1,75 @@
+
+## 💻 **2️⃣ Advanced — GUI BMI Calculator (Tkinter) (`README.md`)**
+
+```markdown
+# 💻 BMI Calculator (Advanced GUI Version)
+
+This project is part of the **Oasis Infobyte Python Internship**.  
+It’s an **advanced version of the BMI Calculator** built with **Tkinter (Python GUI library)**.  
+The app allows users to enter their weight and height through a simple interface and instantly see their BMI result and category.
+
+---
+
+## 🚀 How to Run
+
+1. Ensure you have **Python 3.x** installed.
+2. Save the file as `gui_bmi_calculator.py`.
+3. Run the program using:
+
+   ```bash
+   python gui_bmi_calculator.py
+A window will open where you can input:
+
+Weight (in kilograms)
+
+Height (in meters)
+
+Click the “Calculate BMI” button to see your result.
+
+⚙️ Features
+Graphical User Interface using Tkinter 🪟
+
+Automatic BMI calculation and category classification
+
+Input validation with error messages
+
+Clean, simple, and user-friendly layout
+
+📊 BMI Formula
+BMI
+=
+Weight (kg)
+(
+Height (m)
+)
+2
+BMI= 
+(Height (m)) 
+2
+ 
+Weight (kg)
+​
+ 
+🩺 BMI Categories
+BMI Range	Category
+< 18.5	Underweight
+18.5 – 24.9	Normal weight
+25 – 29.9	Overweight
+≥ 30	Obese
+
+🧠 Example Output
+When you click “Calculate BMI”, you’ll see something like:
+
+makefile
+Copy code
+BMI: 22.86
+Category: Normal weight
+🧰 Libraries Used
+tkinter – For GUI
+
+messagebox – For input validation and alerts
+
+👨‍💻 Author
+Krishna Dhawale
+Python Programming Internship – Oasis Infobyte
+#oasisinfobyte #python #internship
